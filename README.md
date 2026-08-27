@@ -28,6 +28,9 @@
   <a href="https://github.com/Harxhith/Ghost32">
     <img src="https://img.shields.io/badge/Ghost32-4A4A4A?style=for-the-badge&logo=espressif&logoColor=white">
   </a>
+  <a href="https://github.com/harxhithc/Cipher">
+    <img src="https://img.shields.io/badge/Cipher-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+  </a>
 </div>
 
 <h3 align="center" >Let’s Connect</h3>
